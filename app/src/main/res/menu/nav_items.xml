@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/reenter_details"
+            android:title="Re-enter Details"
+            android:icon="@drawable/ic_edit_white_24dp" />
+        <item
+            android:id="@+id/chatbot"
+            android:title="Chat with Miki"
+            android:icon="@drawable/ic_chat_white_24dp" />
+        <item
+            android:id="@+id/camera"
+            android:title="Should I eat this?"
+            android:icon="@drawable/ic_help_white_24dp"/>
+        <item
+            android:id="@+id/diet_plan"
+            android:title="Your diet plan"
+            android:icon="@drawable/ic_list_list_24dp"/>
+        <item
+            android:id="@+id/contact"
+            android:title="Contact Us"
+            android:icon="@drawable/ic_email_black_24dp"/>
+    </group>
+
+</menu>
