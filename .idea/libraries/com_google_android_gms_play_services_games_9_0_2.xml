@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="com.google.android.gms:play-services-games-9.0.2">
+    <CLASSES>
+      <root url="jar://G:/Softwares/Android/.gradle/caches/transforms-1/files-1.1/play-services-games-9.0.2.aar/97202810fbe15da1900f40651597d63d/jars/classes.jar!/" />
+      <root url="file://G:/Softwares/Android/.gradle/caches/transforms-1/files-1.1/play-services-games-9.0.2.aar/97202810fbe15da1900f40651597d63d/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

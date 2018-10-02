@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="com.ibm.watson.developer_cloud:dialog:3.7.2@jar">
+    <CLASSES>
+      <root url="jar://G:/Softwares/Android/.gradle/caches/modules-2/files-2.1/com.ibm.watson.developer_cloud/dialog/3.7.2/335ba605adba1ba2cf74deabb4d7bb229cded4cb/dialog-3.7.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://G:/Softwares/Android/.gradle/caches/modules-2/files-2.1/com.ibm.watson.developer_cloud/dialog/3.7.2/6199c6532ae559e93d5e5140b6848aca4df6f85a/dialog-3.7.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
