@@ -242,11 +242,12 @@ public class DashBoardActivity extends AppCompatActivity {
                 takePicture();
                 break;
             case R.id.diet_plan:
-                Intent intentUserAccountsData = new Intent(DashBoardActivity.this , DietPlanActivity.class);
+            fdiet    Intent intentUserAccountsData = new Intent(DashBoardActivity.this , DietPlanActivity.class);
                 startActivity(intentUserAccountsData);
                 break;
             case R.id.contact:
-
+                Intent intent = new Intent(Intent.ACTION_SENDTO,Uri.fromParts("mailto","diet.assistant@gmail.com",null));
+                startActivity(Intent.createChooser(intent, "Choose an Email client: "));
             default:
                 break;
         }
